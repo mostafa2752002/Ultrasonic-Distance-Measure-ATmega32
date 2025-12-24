@@ -51,9 +51,3 @@ The ICU is configured to:
 - **Ultrasonic Echo:** PD6 (Fixed ICU Pin for ATmega32)
 - **LCD Control:** RS → PB0 | E → PB1 | RW → GND
 - **LCD Data:** Port A (all 8 pins)
-
----
-
-
-## 👨‍💻 Author
-**[Your Name]** 4th Year Aerospace Engineering Student at Cairo University.
